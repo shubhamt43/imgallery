@@ -24,11 +24,11 @@ async function searchImages() {
         const image = document.createElement('img');
         image.src = results.urls.small;
         const imgLink = document.createElement("a");
-        imgLink.href = results.links.html;
-        imgLink.target = "_blank";
+        // imgLink.href = results.links.html;
+        // imgLink.target = "_blank";
 
-        imgLink.appendChild(image);  
-        searchResult.appendChild(imgLink);
+        // imgLink.appendChild(image);  
+        searchResult.appendChild(image);
     });
     showMoreBtn.style.display="block";
     p.style.display= "block";
