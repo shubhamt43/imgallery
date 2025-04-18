@@ -6,7 +6,7 @@ A responsive and dynamic image gallery web app powered by the **Unsplash API**. 
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it out](shubhamt43.github.io/imgallery/)
+👉 [Click here to try it out](https://shubhamt43.github.io/imgallery/)
 
 ---
 
